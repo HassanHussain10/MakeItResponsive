@@ -42,7 +42,11 @@ h1{
   clear: both;
 
 }
-
+@media screen and (max-width: 480px) {
+  #tekstboks1, #tekstboks2 > span {
+    display: block;
+    text-align: center;
+  }
 #logo{
     border-style: solid;
     border-color: black;
