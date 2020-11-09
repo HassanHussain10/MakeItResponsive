@@ -198,3 +198,7 @@ th, td{
         display: block;
     }
 }
+    
+#tekstboks1.icon {
+    display: none;
+}
